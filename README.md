@@ -6,7 +6,7 @@
       "command": "uvx",
       "args": [
         "--from",
-        "git+https://github.com/claude-ut/mcp-calculator",
+        "git+https://github.com/claude-ut/mcp-calculator@main",
         "calculator-server"
       ]
     }
