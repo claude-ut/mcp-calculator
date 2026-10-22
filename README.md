@@ -8,7 +8,8 @@
         "--from",
         "git+https://github.com/claude-ut/mcp-calculator@main",
         "calculator-server"
-      ]
+      ],
+      "env": {}
     }
   }
 }
